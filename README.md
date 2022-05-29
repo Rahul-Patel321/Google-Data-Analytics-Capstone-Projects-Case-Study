@@ -5,4 +5,4 @@ This repository contains an analysis done for the capstone project of the Google
 
 ![cert](Google Data Analytics Professional Certificate-1.jpg)
 
-![154794904-df924ea1-f2b8-4d4e-a04f-d39b9ad8b6f4](https://user-images.githubusercontent.com/99217835/156901337-b969a60e-5d7e-47c6-9a47-bdc970a2b262.png)
+
